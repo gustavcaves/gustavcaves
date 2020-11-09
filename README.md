@@ -1,14 +1,11 @@
-### Hi there 👋
+### Hi there, I am Gustav Caves. 👋
 
-
-🔭 I’m currently working on Psious and Kiko Palomares Academy.
-🌱 I make videos on my Youtube Channel
-📫 You can reach me on Instagram
-🤡 Fun fact: I make memes on Instagram
-
+I am a Junior Developer, actualy I am studing Python and Django.
+I started with Python because is easy to learn and it is powerfull. 
+Then I will study Java and C++, because I am doing a couse with [Analyst_Programmer](https://www.intecssa.com/formacion/analista-programador-en-desarrollo-de-aplicaciones-corporativas-con-java-python-y-c/)
 
 ⚡ Technologies
-JavaScript Nodejs React HTML5 CSS3 Bootstrap TypeScript MySQL Amazon AWS Git GitHub BitBucket
+JavaScript | Nodejs | HTML5 | CSS3 | MySQL | Amazon AWS | Git | GitHub
 
 
 <!--
