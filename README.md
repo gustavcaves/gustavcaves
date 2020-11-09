@@ -22,6 +22,11 @@
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
 
+## ⚡ Contact
+
+- rungustavo@gmail.com
+- [Linktree](https://linktr.ee/gustavcaves)
+
 <!--
 **gustavcaves/gustavcaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
