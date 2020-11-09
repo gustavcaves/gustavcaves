@@ -26,7 +26,7 @@
 
 - rungustavo@gmail.com
 - https://gustavcaves.github.io/
-- [twitter: @gustavcaves](https://twitter.com/gustavcaves)
+- [@gustavcaves](https://twitter.com/gustavcaves)
 
 <!--
 - [linktree](https://linktr.ee/gustavcaves)
