@@ -1,10 +1,13 @@
 ### Hi there, I am Gustav Caves. 👋
 
 I am a Junior Developer, actualy I am studing Python and Django.
+
 I started with Python because is easy to learn and it is powerfull. 
+
 Then I will study Java and C++, because I am doing a couse with [Analyst_Programmer](https://www.intecssa.com/formacion/analista-programador-en-desarrollo-de-aplicaciones-corporativas-con-java-python-y-c/)
 
 ⚡ Technologies
+
 JavaScript | Nodejs | HTML5 | CSS3 | MySQL | Amazon AWS | Git | GitHub
 
 
