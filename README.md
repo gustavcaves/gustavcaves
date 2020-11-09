@@ -9,6 +9,7 @@ Then I will study Java and C++, because I am doing a couse with intecssa: [Analy
 ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
