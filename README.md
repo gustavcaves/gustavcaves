@@ -24,7 +24,7 @@
 
 ## ⚡ Contact
 
-- mailto:rungustavo@gmail.com?Subject=Contacto%20desde%20web
+- rungustavo@gmail.com
 - https://gustavcaves.github.io/
 - [twitter: @gustavcaves](https://twitter.com/gustavcaves)
 - [linktree](https://linktr.ee/gustavcaves)
