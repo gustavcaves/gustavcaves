@@ -19,6 +19,9 @@ Then I will study Java and C++, because I am doing a couse with intecssa: [Analy
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++)
+
 <!--
 **gustavcaves/gustavcaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
