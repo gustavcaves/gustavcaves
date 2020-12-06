@@ -24,7 +24,7 @@
 ## ⚡ Contact
 
 - rungustavo@gmail.com
-- https://gustavcaves.github.io/
+- https://gustavcaves.com/
 - [@gustavcaves](https://twitter.com/gustavcaves)
 
 <!--
