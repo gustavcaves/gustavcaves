@@ -23,8 +23,6 @@
 
 ## ⚡ Contact
 
-- [@gustavcaves](https://twitter.com/gustavcaves)
-
 <!--
 - [linktree](https://linktr.ee/gustavcaves)
 -->
