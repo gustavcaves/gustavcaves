@@ -21,8 +21,6 @@
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
 
-## ⚡ Contact
-
 <!--
 - [linktree](https://linktr.ee/gustavcaves)
 -->
