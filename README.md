@@ -23,8 +23,6 @@
 
 ## ⚡ Contact
 
-- rungustavo@gmail.com
-- https://gustavcaves.com/
 - [@gustavcaves](https://twitter.com/gustavcaves)
 
 <!--
